@@ -12,7 +12,7 @@ public class Coordonnes {
 
     @Override
     public String toString() {
-        return x +" " +y;
+        return x +"," +y;
     }
 
     public int getX() {
